@@ -1,2 +1,4 @@
-# Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+# Zerodha Clone
+Complete MERN stack based project build in React.js 
+
+
